@@ -1,1 +1,2 @@
 hi this is a trial to practise github.
+added txt file
